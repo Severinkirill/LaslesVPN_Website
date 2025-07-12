@@ -458,6 +458,7 @@ header {
             color: #4F5665;
             margin-bottom: 30px;
         }
+    }
 
         .subscribe-button {
             background-color: #F53855;
@@ -470,10 +471,9 @@ header {
             transition: background-color 0.3s ease;
 
             &:hover {
-                background-color:#F53855;
+                background-color:#F53815;
             }
         }
-    }
 }
 
 /* Footer */
